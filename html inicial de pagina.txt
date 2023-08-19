@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>StratMark Academy - Cursos de Marketing</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>StratMark Academy</h1>
+        <p>Tu camino hacia el éxito en el marketing digital</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">Inicio</a></li>
+            <li><a href="#">Cursos</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+    
+    <main class="main">
+        <section class="course">
+            <h2>Curso de Marketing 101</h2>
+            <p>¡Bienvenido al Curso de Marketing 101! Aprende los conceptos básicos para comenzar tu propio negocio.</p>
+            <ul>
+                <li>4 módulos</li>
+                <li>Prueba para avanzar</li>
+                <li>$50 por los primeros 4 módulos</li>
+                <li><strong>$60 por el curso completo</strong></li>
+            </ul>
+            <a href="#" class="enroll-button">Inscribirse</a>
+        </section>
+        
+        
+    </main>
+    
+    <footer>
+        <p>&copy; 2023 StratMark Academy</p>
+    </footer>
+</body>
+</html>
